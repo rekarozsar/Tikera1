@@ -1,0 +1,23 @@
+[{
+    "day":0,
+    "name":"Monday"
+}
+,{
+    "day":1,
+    "name":"Tuesday"
+},{
+    "day":2,
+    "name":"Wednesday"
+},{
+    "day":3,
+    "name":"Thursday"
+},{
+    "day":4,
+    "name":"Friday"
+},{
+    "day":5,
+    "name":"Saturday"
+},{
+    "day":6,
+    "name":"Sunday"
+}]
