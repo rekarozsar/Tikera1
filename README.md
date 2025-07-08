@@ -32,7 +32,7 @@ To run the project locally:
 
 ```bash
 git clone https://github.com/rekarozsar/Tikera1.git
-cd tikera-cinema
+cd Tikera1
 npm install
 npm start
 ```
