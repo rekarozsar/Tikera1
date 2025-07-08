@@ -31,7 +31,7 @@ The app is intended as an educational project.
 To run the project locally:
 
 ```bash
-git clone https://github.com/your-username/tikera-cinema.git
+git clone https://github.com/rekarozsar/Tikera1.git
 cd tikera-cinema
 npm install
 npm start
